@@ -5,3 +5,13 @@
 <img width="948" height="674" alt="image" src="https://github.com/user-attachments/assets/53f802d5-cd09-44c2-be0c-ece497fb26e6" />
 
 <img width="954" height="677" alt="image" src="https://github.com/user-attachments/assets/cb3a035d-34c3-46bf-b372-a90a44176b53" />
+
+Pada gambar pertama ditampilkan halaman utama aplikasi yang berisi daftar produk elektronik dalam bentuk grid. Setiap produk ditampilkan dalam bentuk card yang memuat gambar produk, nama produk, harga dalam rupiah, serta tombol Add untuk menambahkan produk ke keranjang.
+
+Produk yang ditampilkan antara lain:
+
+Camera DSLR (Rp 12.000.000)
+
+Tablet Pro (Rp 7.000.000)
+
+Tampilan menggunakan layout grid dua kolom dengan desain minimalis dan warna latar yang soft, sehingga memberikan kesan modern dan bersih.
